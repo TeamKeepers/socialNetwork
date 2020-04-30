@@ -1,0 +1,12 @@
+export const login = "LOGIN";
+export const loginError = "LOGIN_ERROR";
+export const signup = "SIGNUP";
+export const clearTrial = "CLEAR_TRIAL";
+export const finishRegistration = "ADD_REGISTRATION_INDEX";
+export const registrationError = "REGISTRATION_ERROR";
+export const EndOfRegistration = "END_REGISTRATION";
+export const changeScreen = "CHANGE_SCREEN";
+export const getAllPosts = "GET_ALL_POSTS";
+export const getMyPosts = "GET_MY_POSTS";
+export const deconnexion = "DECONNECT";
+export const newPost = "NEW_USER_POST";
